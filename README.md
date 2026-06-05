@@ -1,4 +1,4 @@
-# uk-fraud-detection
+# UK Fraud Detection
 **Author:** Sahil Singh Choudhary — MSc Risk Analytics, Queen Mary University of London  
 **Stack:** Python · scikit-learn · SHAP · pandas · matplotlib
 
